@@ -1,0 +1,15 @@
+Section 1 - (5 mins)
+1. Explain the difference between an abstract class and an interface.
+
+
+2. What is the purpose of getters and setters in a class?
+	
+Section 2 - Testing - (5 mins)
+
+3. Explain the purpose of black box testing
+4. In your opinion what are the benefits of test cases
+
+Section 3 - NodeJS specific questions - (5 mins)
+5. What is an error first callback, and what is the reason for this pattern existing?
+6. Explain the difference between fs.readSync and fs.read (File System module in Nodejs)
+7. What tasks do you feel should be done asynchronously?
